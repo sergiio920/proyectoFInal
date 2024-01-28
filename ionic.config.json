@@ -1,0 +1,7 @@
+{
+  "name": "frontend-sge",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
